@@ -20,7 +20,7 @@ IconData iconForCategory(String category) {
       return Icons.checkroom;
     case 'computers':
       return Icons.laptop_mac;
-    case 'photography':
+    case 'photographys':
       return Icons.photo_camera;
     case 'accessories':
       return Icons.backpack;

@@ -5,7 +5,7 @@ const List<String> kCategories = [
   'audio',
   'clothing',
   'computers',
-  'photography',
+  'photographys',
   'accessories',
   'furniture',
 ];

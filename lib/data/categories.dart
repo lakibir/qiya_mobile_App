@@ -7,7 +7,7 @@ const List<String> kCategories = [
   'computers',
   'photographys',
   'accessories',
-  'furniture',
+  'furnitures',
 ];
 
 IconData iconForCategory(String category) {
